@@ -166,6 +166,33 @@
     display: inline;
   }
 
+  .tab-content {
+    padding: 15px;
+    border-left: 0.2px solid #d9d9d9;
+    border-right: 0.2px solid #d9d9d9;
+    border-bottom: 0.2px solid #d9d9d9;
+  }
+
+  .nav-link {
+    font-family: CustomFontNormal, Helvetica, sans-serif;
+    color: var(--secondaryColor);
+    text-decoration: none;
+  }
+
+  .nav-link :hover,
+  :focus {
+    font-family: CustomFontNormal, Helvetica, sans-serif;
+    color: var(--primaryColor);
+    text-decoration: none;
+  }
+
+  .nav-link:focus,
+  .nav-link:hover {
+    font-family: CustomFontNormal, Helvetica, sans-serif;
+    color: var(--secondaryColor);
+    text-decoration: none;
+  }
+
   /*box*/
 
   /*table*/
