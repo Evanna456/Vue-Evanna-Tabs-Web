@@ -123,6 +123,13 @@
     text-decoration: none;
   }
 
+  #abtn :focus,
+  :active {
+    font-family: CustomFontNormal, Helvetica, sans-serif;
+    color: #ffffff;
+    text-decoration: none;
+  }
+
   #link {
     text-decoration: underline;
     cursor: pointer;
