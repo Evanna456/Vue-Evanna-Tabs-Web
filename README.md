@@ -2,7 +2,7 @@
 
 Personal Page migration from Vue2 to Vue3.
 
-> Under Construction.
+> Under Development.
 
 ## About Vue
 
